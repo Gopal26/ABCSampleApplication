@@ -12,7 +12,7 @@ namespace ABC
         {
             Console.WriteLine("God is Great !!");
             Console.WriteLine("fsjfsksk");
-
+            Console.ReadLine();
         }
     }
 }
